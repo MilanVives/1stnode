@@ -6,3 +6,6 @@ function sayHello(name){
 // sayHello('Vives');
 
 console.log(document);
+
+
+//extra lijn
